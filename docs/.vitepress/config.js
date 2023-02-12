@@ -17,7 +17,8 @@ export default {
     ],
     lastUpdated: true,
     editLink: {
-      pattern: '/edit/main/docs/:path',
+      pattern:
+        'https://github.com/Huauauaa/data-structure-and-algorithm/edit/main/docs/:path',
     },
     footer: {
       message: 'Released under the MIT License.',
