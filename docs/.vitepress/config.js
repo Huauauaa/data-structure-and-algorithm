@@ -23,5 +23,10 @@ export default {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2022-present Huauauaa',
     },
+    algolia: {
+      appId: 'U732RDXZ89',
+      apiKey: '1e83cfb35a4c962ca09a460a401db603',
+      indexName: 'dsa',
+    },
   },
 };
